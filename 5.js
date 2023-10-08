@@ -16,7 +16,7 @@ Ejemplos de DNI:
     var arrayLetra=["T","R","W","A","G","M","Y","F","P","D","X","B","N","J","Z","S","Q","V","H","L","C","K","E"];
     var posLetra= (numDNI%23);
     console.log(numDNI+"-"+arrayLetra[posLetra]);
+
     })();
 
-    front end solutions
-    fjksdifhdsakjfdsa
+    })();

@@ -14,5 +14,3 @@ Teo Alarcón Moya
     }
     console.log(arrayOp);
     })();
-
-    sdñlgjsdklgsd
