@@ -17,4 +17,3 @@ Ejemplos de DNI:
     var posLetra= (numDNI%23);
     console.log(numDNI+"-"+arrayLetra[posLetra]);
     })();
-sgsdgdsgdsgds
